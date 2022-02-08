@@ -1,8 +1,8 @@
 ---
-title: c++ unordered_map/set自定义对象的hash
+title: unordered_map/set自定义对象的hash
 author: MoonXu
 description: 懒癌犯了，摘要同标题~
-comments: false
+comments: true
 sticky: '0'
 tags: [cpp语法]
 categories: [cpp,cpp语法]
