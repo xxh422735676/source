@@ -2,7 +2,7 @@
 title: 【c++语法基础】decltype关键字
 author: MoonXu
 description: 懒癌犯了，摘要同标题~
-comments: false
+comments: true
 sticky: '0'
 tags:
   - cpp语法
