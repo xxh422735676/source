@@ -1,5 +1,9 @@
----
 abbrlink: 1
+title: '11'
+tags: []
+categories: []
+comments: true
+date: 2022-02-04 14:31:00
 ---
 ---
 title: /testdir/testcats1
@@ -13,3 +17,4 @@ abbrlink: 6870
 date: 2022-02-04 13:50:00
 passwo
 
+---
