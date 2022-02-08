@@ -4,8 +4,11 @@ author: MoonXu
 description: 懒癌犯了，摘要同标题~
 comments: false
 sticky: '0'
-tags: []
-categories: []
+tags:
+  - cpp语法
+categories:
+  - cpp
+  - cpp语法
 password: ''
 abbrlink: 72055
 date: 2022-2-08 19:20:37
