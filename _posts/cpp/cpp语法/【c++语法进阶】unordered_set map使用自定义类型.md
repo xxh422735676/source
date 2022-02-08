@@ -4,10 +4,14 @@ author: MoonXu
 description: 懒癌犯了，摘要同标题~
 comments: true
 sticky: '0'
-tags: [cpp语法]
-categories: [cpp,cpp语法]
+tags:
+  - cpp语法
+categories:
+  - cpp
+  - cpp语法
 password: ''
-date: 2022-2-08 18:03:23
+abbrlink: 14298
+date: 2022-02-08 18:03:23
 ---
 
 `unordered_map/set`使用hash进行存储，因此存储自定义对象前，必须：

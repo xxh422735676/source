@@ -4,10 +4,14 @@ author: MoonXu
 description: 懒癌犯了，摘要同标题~
 comments: false
 sticky: '0'
-tags: [cpp语法]
-categories: [cpp,cpp语法]
+tags:
+  - cpp语法
+categories:
+  - cpp
+  - cpp语法
 password: ''
-date: 2022-2-08 18:23:25
+abbrlink: 40002
+date: 2022-02-08 18:23:25
 ---
 
 ### decltype关键字
