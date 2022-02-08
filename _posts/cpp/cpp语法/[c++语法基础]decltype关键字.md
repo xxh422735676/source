@@ -10,9 +10,11 @@ categories:
   - cpp
   - cpp语法
 password: ''
-abbrlink: 40002
+abbrlink: 71532
 date: 2022-02-08 18:23:25
 ---
+
+s
 
 ### decltype关键字
 
