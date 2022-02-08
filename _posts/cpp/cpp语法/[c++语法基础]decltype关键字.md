@@ -25,8 +25,8 @@ decltype(f()) sum = x;
 
 解决难以拼写的类型名，有以下两个方案：
 
-1. 使用[类型别名](baidu.com)技术
-2. 使用[auto](baidu.com)和decltype
+1. 使用类型别名技术
+2. 使用auto和decltype
 
 ### 工作原理
 
@@ -36,5 +36,5 @@ decltype(f()) sum = x;
 
 ### decltype+变量
 
-根据[表达式的定义](baidu.com)，单独使用一个变量，相当于一个最简单的表达式。
+根据表达式的定义，单独使用一个变量，相当于一个最简单的表达式。
 
